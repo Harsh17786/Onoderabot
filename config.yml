@@ -25,11 +25,11 @@ ban_sticker: 'CAACAgUAAxkBAAIHsl5nbqXdDTmpG2HFDNhnwvE5kFbWAAI9AQAC3pTNLzeTCUmnhT
 
 
 # API SETUP
-cash_api: None  
+cash_api: 810d07cf11d835988d35  
 time_api: None  
-wall_api: None
+wall_api: 4714b015a2eb31fab8d3b1849d93574d
 lydia_api: None
-sw_api: ''
+sw_api: 'VxZMFkViTz6vLAzToVAYeK5J7Bx3EGL20z2_GbGLDy3Aa3NLfFmO7wMcfKHKMGSY'
 
 # Zoldyck family config
 alluka: [936828744]
