@@ -1,14 +1,14 @@
 # CONFIG SETUP
 alluka_explain_config: "alluka_zoldyck"   #Change me from "alluka_zoldyck"
 
-bot_token: "token"  
-owner_id: 1256676137
-api_key: 123456
-api_hash: ' '
-owner_username: "am_Tanny"
-database_url: "database_url"
-message_dump: "chat_id"
-gban_dump: "chat_id"
+bot_token: "1276328038:AAFGaVUWKC1UWB4e9kuM3LMde8NlgmZdR3Q"  
+owner_id: 992712818
+api_key: 1570274
+api_hash: 'd463fbcaa44274b3e969028dd570d3ab'
+owner_username: "OtakuHarsh"
+database_url: "postgres://dztjlbbs:Huml9xKozjXld1qrG3fGWEJMGadcdeSA@lallah.db.elephantsql.com:5432/dztjlbbs"
+message_dump: "https://t.me/joinchat/OyuYchSZY4V4PDorzyDgjA"
+gban_dump: "https://t.me/joinchat/OyuYchsX9rwlQDWyuCcHmA"
 load: []
 no_load: []
 cert_path: None
@@ -18,8 +18,8 @@ webhook: False
 url: None
 allow_excl: False
 del_cmds: False
-strict_gban: False
-strict_gmute: False
+strict_gban: True
+strict_gmute: True
 spammers_lists: [100]
 ban_sticker: 'CAACAgUAAxkBAAIHsl5nbqXdDTmpG2HFDNhnwvE5kFbWAAI9AQAC3pTNLzeTCUmnhTneGAQ'
 
