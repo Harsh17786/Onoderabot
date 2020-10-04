@@ -1,6 +1,6 @@
 import threading
 
-from allukabot.modules.sql import BASE, SESSION
+from alluka.modules.sql import BASE, SESSION
 from sqlalchemy import Column, String
 
 
