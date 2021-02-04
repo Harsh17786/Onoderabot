@@ -145,7 +145,7 @@ def send_start(bot, update):
     text += "\n\nYou can find my list of available commands with /help"  
 
     keyboard = [[InlineKeyboardButton(text="❓ Help", callback_data="help_back"),InlineKeyboardButton(text="⚙️ Connect Group", callback_data="main_connect")]]
-    keyboard += [[InlineKeyboardButton(text="🔌 Add me",url="http://t.me/zoldycktmbot?startgroup=true"),InlineKeyboardButton(text="👤 Support chat",url="https://t.me/RemBotsupport")]]
+    keyboard += [[InlineKeyboardButton(text="🔌 Add me",url="http://t.me/Onodera_Bot?startgroup=true"),InlineKeyboardButton(text="👤 Support chat",url="https://t.me/RemBotsupport")]]
 
     update.effective_message.reply_photo(HELP_PANEL_STRING.ALLUKA_IMG,text, reply_markup=InlineKeyboardMarkup(keyboard), parse_mode=ParseMode.MARKDOWN)
 
